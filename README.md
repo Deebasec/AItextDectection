@@ -4,7 +4,7 @@ This script automates the process of paraphrasing articles using undetectable.ai
 
 ## NEW
 
-You can Try the Other tool as well https://github.com/deebasec/Aitextdetection
+You can Try the Other tool as well [https://github.com/deebasec/Aitextdetection]
 
 ## Features
 
@@ -20,7 +20,7 @@ You can Try the Other tool as well https://github.com/deebasec/Aitextdetection
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/deebasec/Aitextdetection.git
+git clone https://github.com/Deebasec/AItextDectection.git
 cd AiTextDetectionBypass
 ```
 
