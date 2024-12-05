@@ -4,7 +4,7 @@ This script automates the process of paraphrasing articles using undetectable.ai
 
 ## NEW
 
-You can Try the Other tool as well https://github.com/obaskly/AiDetectionBypass
+You can Try the Other tool as well https://github.com/deebasec/Aitextdetection
 
 ## Features
 
